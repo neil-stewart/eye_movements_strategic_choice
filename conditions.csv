@@ -1,0 +1,9 @@
+id,side,left_colour,right_colour,own_payoff,other_payoff
+000,column,blue,green,right,left
+011,row,blue,green,left,right
+010,column,blue,green,left,right
+001,row,blue,green,right,left
+100,column,green,blue,right,left
+111,row,green,blue,left,right
+110,column,green,blue,left,right
+101,row,green,blue,right,left
